@@ -2,7 +2,7 @@
 
 **PowerSzaro** to niezwykle szybki i wydajny program konsolowy napisany w czystym języku C, przeznaczony do konwersji 24-bitowych obrazów BMP do skali szarości. Narzędzie oferuje zaawansowany silnik przetwarzania z optymalizacją wektorową **AVX2**, zestaw filtrów postprocessingu oraz możliwość zapisu do ultra-lekkiego formatu PGM.
 
-Wszystko to z zachowaniem pełnej czystości etycznej – oprogramowanie jest w 100% Open Source!
+Wszystko to z zachowaniem w 100% Open Source!
 
 ---
 
