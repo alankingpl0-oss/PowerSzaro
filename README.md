@@ -5,6 +5,32 @@
 Wszystko to z zachowaniem w 100% Open Source!
 
 ---
+## Porównania.
+
+Surowy obraz przedstawiający pluszowego pingwinka.
+
+<p align="center">
+  <img src="pingwinek2.bmp" alt="Surowy pingwinek." width="600">
+</p>
+
+---
+
+Przerobiony pingwinek.
+
+<p align="center">
+  <img src="pingu.bmp" alt="przerobiony pingwinek." width="600">
+</p>
+
+---
+
+Przerobiony pingwinek z flagą -i (--invert), czyli z **negatywem**.
+
+<p align="center">
+  <img src="pingu_neg.bmp" alt="Negatyw pingwinka." width="600">
+</p>
+
+
+---
 
 ## 🚀 Główne Cechy
 
